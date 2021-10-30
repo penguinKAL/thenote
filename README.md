@@ -6,6 +6,6 @@ Here is the note, by chaitanya. | work in progress
  <img src='https://penguinkal.github.io/thenote/headertemp.jpeg' />
   
   
-  ![image](https://penguinkal.github.io/thenote/normalimage.jpg)
+![image](https://penguinkal.github.io/thenote/normalimage.jpg)
   
   <br/>
