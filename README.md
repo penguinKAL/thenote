@@ -4,5 +4,5 @@ Here is the note, by chaitanya. | work in progress
 <font size ='11'>This is my first markdown<font/><br/>
   <br/>
  
-  ![header image](https://raw.githubusercontent.com/penguinKAL/thenote/main/headertemp.JPEG)  
+  ![image](https://github.com/penguinKAL/thenote/blob/dcede747e2531449d8b62f90527dd4bf54721299/headertemp.jpeg)  
   <br/>
