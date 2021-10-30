@@ -10,4 +10,4 @@ Here is the note, by chaitanya. | work in progress
 ![image](https://penguinkal.github.io/thenote/normalimage.jpg)
 
   
-<br/><font size='3'> ![Contact](imsanivada@tuta.io) <font/>
+<br/><font size='3'> ![Contact](mailto:imsanivada@tuta.io) <font/>
