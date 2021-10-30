@@ -7,7 +7,7 @@ Here is the note, by chaitanya. | work in progress
 <img src='https://penguinkal.github.io/thenote/headertemp.jpeg' />
   
   
-![image](/normalimage.jpg)
+  ![image](/normalimage.jpg)
 
   
-<br/><font size='3'> ![Contact](mailto:imsanivada@tuta.io) <font/>
+ ![Contact](mailto:imsanivada@tuta.io)
