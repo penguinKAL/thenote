@@ -1,11 +1,10 @@
 # thenote
 
-Here is the note, by chaitanya. | work in progress
+## Hello 👋, I'm Sai Chaitanya, Sanivada.
 
+My interests include
+ - Deep Learning
+ - Data Science
+ - Learning Frontend
 
-This is my first markdown github page
-  
-  
-![image](/normalimage.jpg)
-
-   Contact: <imsanivada@tuta.io>
+Contact: <imsanivada@tuta.io>
