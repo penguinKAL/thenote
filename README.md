@@ -8,3 +8,5 @@ My interests include
  - Learning Frontend
 
 Contact: <imsanivada@tuta.io>
+
+About: [Click here to know more](about.md)
